@@ -155,6 +155,5 @@ function PlayerJoined(Player)
 	r = os.execute("goproxy containers")
 end
 ```
-## Contributing
 
-Want to hack on Dockercraft? [Docker's contributions guidelines](https://github.com/docker/docker/blob/master/CONTRIBUTING.md) apply.
+
