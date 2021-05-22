@@ -89,7 +89,7 @@ Try `Ocean 50 63`, or for a more frozen alternative, `FrozenOcean 50 63 Ice`
 
 Then `Desert 63 0 DeadBushes` is what you need
 
-**Are you pining for the... Pines?**
+**Forest?**
 ![forest](https://github.com/docker/dockercraft/raw/master/docs/img/forest.png?raw=true)
 We have you covered. Try `Forest 63 0 Trees`
 
@@ -97,17 +97,6 @@ We have you covered. Try `Forest 63 0 Trees`
 ![jungle](https://github.com/docker/dockercraft/raw/master/docs/img/jungle.png?raw=true)
 If so, Welcome to the Jungle. `Jungle 63 0 Trees`
 
-## Upcoming features
-
-This is just the beginning for Dockercraft! We should be able to support a lot more Docker features like:
-
-- List [Docker Machines](https://docs.docker.com/machine/) and use portals to see what's inside
-- Support more Docker commands
-- Display [logs](https://docs.docker.com/v1.8/reference/commandline/logs/) (for each container, pushing a simple button)
-- Represent links
-- Docker networking
-- Docker volumes
-- ...
 
 ## How it works
 
