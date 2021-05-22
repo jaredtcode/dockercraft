@@ -109,15 +109,6 @@ This is just the beginning for Dockercraft! We should be able to support a lot m
 - Docker volumes
 - ...
 
-If you're interested about Dockercraft's design, discussions happen in [that issue](https://github.com/docker/dockercraft/issues/19).
-Also, we're using [Magicavoxel](https://ephtracy.github.io/) to do these nice prototypes:
-
-![Dockercraft](https://github.com/docker/dockercraft/raw/master/docs/img/voxelproto.jpg?raw=true)
-
-You can find our Magicavoxel patterns in [that folder](![Dockercraft](https://github.com/docker/dockercraft/tree/master/docs/magicavoxel)).
-
-To get fresh news, follow our Twitter account: [@dockercraft](https://twitter.com/dockercraft).
-
 ## How it works
 
 The Minecraft client itself remains unmodified. All operations are done server side.
